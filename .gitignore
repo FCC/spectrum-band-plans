@@ -10,7 +10,3 @@ application/logs/*.php
 
 # Attachs and cache files #
 *.tmp
-/attach/cache/
-/attach/
-/application/cache/_bancha/*.css
-/application/cache/_bancha/*.js
