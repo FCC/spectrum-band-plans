@@ -1,8 +1,11 @@
-#Logs
+# Folders
+_ignore/*
+
+# Logs
 application/logs/*.php
 
 # Content types
-/application/xml/types/*.xml
+*.swp
 
 # Custom builds and generated php files
 /core/documentation/build
